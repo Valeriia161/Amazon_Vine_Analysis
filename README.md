@@ -37,3 +37,6 @@ Also there are 90 unpaid 5 stars reviews ( around 0.25% of the total reviews).
 
 
 ## `Summary ` <br/>
+Looking at the numbers above there are not any of 5-star Vine reviews written by members of the paid Amazon Vine program.  This leads me to believe that  there is no bias towards positivity of the paid reviews. br/
+In order to draw better conclusions about biases in the Amazon Vine program, I would expand my analysis by adding 4-star reviews as positive reviews. This would increase my sample size and would give me more accurate percentages.
+
