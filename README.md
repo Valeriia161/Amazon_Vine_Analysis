@@ -31,7 +31,7 @@ Using my knowledge of PySpark, I filtered the data and transformed the DataFrame
 
 
 Analysis shows that Shoes dataset doesn’t have any Vine program paid reviews. But there are total 355 unpaid non-Vine program reviews. <br/>
-Also there are 90 unpaid 5 stars reviews ( around 0.25% of the total reviews).
+Also there are 90 unpaid 5 stars reviews (25% of the total reviews).
 
 ![image](https://user-images.githubusercontent.com/110998103/204067698-7b6a2440-d90e-43c4-89bd-74fb2d5fa2b6.png)
 
