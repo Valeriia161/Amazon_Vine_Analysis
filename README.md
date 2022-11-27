@@ -3,7 +3,7 @@
 ## `Project Overview ` <br/>
 The purpose of Amazon_Vine_Analysis is to analyze Amazon reviews written by members of the paid Amazon Vine program. <br/>
 In this project, I had  access to approximately 50 datasets. Each one contains reviews of a specific product, from clothing apparel to wireless products. I picked Shoes dataset and used PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. After that, I used PySpark to determine if there is any bias toward favorable reviews from Vine members in Shoes dataset. <br/>
-Then, I  wrote a summary of the analysis for Jennifer to submit to the SellBy stakeholders. <br/>
+Then, I  wrote a summary of the analysis. <br/>
 #### Resources <br/>
 • Data Source: [Google](https://www.google.com/), [Amazon Review Dataset]( https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt). <br/> 
 •	Software: PySpark, AWS RDS, pgAdmin, SQL, Git Bash, GitHub. <br/>
